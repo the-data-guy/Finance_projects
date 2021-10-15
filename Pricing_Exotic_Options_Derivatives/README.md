@@ -1,6 +1,6 @@
-It's a project I led for my team, on pricing of exotic options (derivatives) using bimonial pricing model.
+It's a project I led for my team, on pricing of exotic options (derivatives) using binomial pricing model.
 
-The content is primarily related to a specific Chapter (aptly titled "Exotic options"), from the well known book by Prof. JoHn C. Hull
+The content is primarily related to a specific Chapter (aptly titled "Exotic options"), from the well known book by Prof. John C. Hull
 
 The spreadsheet was used for understanding and hence, pricing the different types of rather less known options.
 
